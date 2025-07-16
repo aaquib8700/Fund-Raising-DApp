@@ -1,4 +1,3 @@
-// src/components/Donate.jsx
 import React, { useState } from "react";
 import { ethers } from "ethers";
 import { contractABI, contractAddress } from "../utils/constants";

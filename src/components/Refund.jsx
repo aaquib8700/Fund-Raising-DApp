@@ -1,4 +1,3 @@
-// src/components/ClaimRefund.jsx
 import React, { useState } from "react";
 import { ethers } from "ethers";
 import { contractABI, contractAddress } from "../utils/constants";
