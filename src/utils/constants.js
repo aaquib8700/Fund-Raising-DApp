@@ -1,4 +1,3 @@
-// constants.js
 import { ethers } from "ethers";
 
 export const contractAddress = "0xcc0d19d0D1BddB00dAc1699ec60Bff02d943dcC5";
